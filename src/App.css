@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-image: url('desain web.svg');
+  /* Path ke wafe.svg */
+  background-size: cover;
+  /* Gambar memenuhi layar */
+  background-position: center;
+  /* Pusatkan gambar */
+  background-attachment: fixed;
+  /* Latar tetap saat scroll */
+  background-repeat: no-repeat;
+  /* Hindari pengulangan gambar */
+  min-height: 100vh;
+  /* Pastikan mencakup tinggi layar */
+  overflow: auto;
+  /* Halaman bisa scroll jika konten panjang */
+}
+
+.App {
+  text-align: center;
+  color: white;
+  /* Sesuaikan warna teks untuk kontras */
+}
+
+.transparent-background {
+  background-color: transparent;
+}
+
+.filter-section {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.filter-section .form-group {
+  flex: 1;
+}
