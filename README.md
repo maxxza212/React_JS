@@ -1,3 +1,6 @@
+![image alt](https://github.com/maxxza212/React_JS/blob/48e43cbfb7538c9d3c29324e12579155715cf828/Screenshot%202024-11-15%20211701.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
