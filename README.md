@@ -1,5 +1,11 @@
 ![image alt](https://github.com/maxxza212/React_JS/blob/48e43cbfb7538c9d3c29324e12579155715cf828/Screenshot%202024-11-15%20211701.png)
 
+![image alt](https://github.com/maxxza212/React_JS/blob/187f14209c7121f67ef7db08190d74b2c9f8c10a/Screenshot%202024-11-15%20211734.png)
+
+![image alt](https://github.com/maxxza212/React_JS/blob/187f14209c7121f67ef7db08190d74b2c9f8c10a/Screenshot%202024-11-15%20211901.png)
+
+![image alt](https://github.com/maxxza212/React_JS/blob/187f14209c7121f67ef7db08190d74b2c9f8c10a/Screenshot%202024-11-15%20211919.png)
+
 
 # Getting Started with Create React App
 
